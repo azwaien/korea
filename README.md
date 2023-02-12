@@ -1,2 +1,2 @@
-# korea
+# cities datafile
 datafile
